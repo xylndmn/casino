@@ -43,12 +43,10 @@ export const Slider = ({ slides }) => {
         
       </div>
 			<Swiper
-				rewind={true}
 				slidesPerView={'auto'}
 				modules={[ Navigation, Pagination ]}
 				navigation={{ nextEl: ".arrow-right", prevEl: ".arrow-left" }}
 				centerInsufficientSlides={true}
-				loop={true}
 				pagination={{ el: '.pagination', clickable: true }}
 			>
 				{slides.map((slide) => (
