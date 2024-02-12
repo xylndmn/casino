@@ -1,0 +1,62 @@
+[
+  {
+    "imageSmall": "taylor-swift-small.png",
+    "imageLarge": "taylor-swift-large.png",
+    "icon": "icon1.png",
+    "title": "Taylor Swift"
+  },
+  {
+    "imageSmall": "reputation-small.png",
+    "imageLarge": "reputation-large.png",
+    "icon": "icon2.png",
+    "title": "Reputation"
+  },
+  {
+    "imageSmall": "lover-small.png",
+    "imageLarge": "lover-large.png",
+    "icon": "icon3.png",
+    "title": "Lover"
+  },
+  {
+    "imageSmall": "folklore-small.png",
+    "imageLarge": "folklore-large.png",
+    "icon": "icon1.png",
+    "title": "Folklore"
+  },
+  {
+    "imageSmall": "evermore-small.png",
+    "imageLarge": "evermore-large.png",
+    "icon": "icon2.png",
+    "title": "Evermore"
+  },
+  {
+    "imageSmall": "fearless-small.png",
+    "imageLarge": "fearless-large.png",
+    "icon": "icon3.png",
+    "title": "Fearless"
+  },
+  {
+    "imageSmall": "red-small.png",
+    "imageLarge": "red-large.png",
+    "icon": "icon1.png",
+    "title": "Red"
+  },
+  {
+    "imageSmall": "midnights-small.png",
+    "imageLarge": "midnights-large.png",
+    "icon": "icon2.png",
+    "title": "Midnights"
+  },
+  {
+    "imageSmall": "speak-now-small.png",
+    "imageLarge": "speak-now-large.png",
+    "icon": "icon3.png",
+    "title": "Speak Now"
+  },
+  {
+    "imageSmall": "1989-small.png",
+    "imageLarge": "1989-large.png",
+    "icon": "icon1.png",
+    "title": "1989"
+  }
+]
